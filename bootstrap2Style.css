@@ -1,0 +1,40 @@
+.m1 h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration: none;
+    font-size: 6em;
+    text-shadow: 2px 2px 8px #FF0000;
+
+}
+* {
+    box-sizing: border-box;
+  }
+.m1 a
+{
+    color: black;
+}
+.m1 a:hover
+{
+    text-decoration: none;
+    color: brown;
+}
+
+.caption
+{
+    text-align: center;
+    color: black;
+
+}
+
+.caption:hover
+{
+    color: darkblue;
+    font-size: 1.5em;
+}
+
+.row a > img
+{
+border: 1px solid black;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
